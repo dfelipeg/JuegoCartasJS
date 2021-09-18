@@ -1,0 +1,19 @@
+/* CREAR UN ESTILO GENERAL PARA SER USADO CUANTAS VECES SE DESEE*/
+.botones{
+top: 100px;
+position: absolute; 
+width: 100%;
+text-align: center;
+}
+
+/* CREAR UN ESTILO SOLO PARA UNA ETIQUETA ESPECIFICA*/
+#mesa{
+    left: 15%; 
+    bottom: 100px;
+    position: absolute;
+    width: 70%; 
+    height: 200px; 
+    text-align: center; 
+    background-color: darkgreen; 
+    vertical-align: middle;
+}
