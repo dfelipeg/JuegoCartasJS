@@ -1,6 +1,8 @@
+//los archivos con extension .js es de javascript
+
 //Declaracion Clase CARTA
 function Carta() {
-	//Propiedades
+	//Propiedades, this variable global para la funcion x
     this.indice = Math.floor(Math.random() * 52) + 1; //Se genera aleatoriamente el indice de la carta
 
 	//Metodo que devuelve el nombre de la carta
