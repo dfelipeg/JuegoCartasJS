@@ -1,0 +1,17 @@
+/*ESTILO BASADO EN ETIQUETA - class*/
+.botones {
+    top: 100px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+
+/*ESTILO BASADO EN ID del objeto*/
+#mesa{
+    left: 15%; bottom: 100px;
+    position: absolute;
+    width: 70%; height: 200px; 
+    text-align: center; 
+    background-color: darkgreen; 
+    vertical-align: middle;
+}
